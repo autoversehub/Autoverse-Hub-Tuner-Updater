@@ -1,0 +1,6 @@
+- New Update!
+
+- Fixed The " Get Script ", Where the user clicked it it provided a blank empty Message without the Actualy Chassis Script
+- Added New Search Featuers
+- Added Changelog, Users can now check to see what we have changed
+- Added New Update Checker, So users don't have to always reinstall everything!
