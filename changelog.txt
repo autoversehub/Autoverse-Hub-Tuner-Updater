@@ -4,3 +4,4 @@
 - Added New Search Featuers
 - Added Changelog, Users can now check to see what we have changed
 - Added New Update Checker, So users don't have to always reinstall everything!
+- Added New Layout for the Changelog
